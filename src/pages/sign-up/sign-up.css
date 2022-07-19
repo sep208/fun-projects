@@ -1,0 +1,17 @@
+.sign-up-header{
+ padding:5px;
+ color:white;
+ font-size:40px;
+}
+.sign-up-button{
+position:absolute;
+left:47%;
+right:50%;
+margin:0 auto;
+top:40%;
+}
+.sign-in-redirect{
+text-align:center;
+color:#d0f3d0;
+cursor:pointer;
+}

@@ -1,0 +1,21 @@
+.Header{
+display:flex;
+padding:15px;
+justify-content: right;
+}
+
+.header-item{
+justify-content: space-between;
+padding:20px;
+justify-self: right;
+color:#fe6601;
+}
+
+.sign-up{
+width:100px;
+padding-top:30px;
+border-radius: 30%;
+height:70px;
+border:none;
+background-color:#fe6601
+}

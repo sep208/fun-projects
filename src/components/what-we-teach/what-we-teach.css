@@ -1,0 +1,30 @@
+.what-title{
+text-align:center;
+color:white;
+}
+.subtitle{
+text-align:center;
+color:rgb(135, 206, 235);
+}
+hr{
+width:500px;
+}
+.image-div-item{
+height:25rem;
+width:25rem;
+}
+.image-subtitle-what{
+text-align:center;
+color:#d0f3d0;
+}
+.subtitle-div-what{
+width:20%;
+height:100%;
+
+}
+.text-image-div-what{
+    display:flex;
+    justify-content:space-between;
+    height:25rem;
+    width:100%;
+    }

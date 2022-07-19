@@ -1,0 +1,12 @@
+.form-input{
+    background: #222351;
+    color: #e2e2e2;
+    border: none;
+    padding:16px;
+    border-radius: 4px;
+    outline: none;
+    height: 10px;;
+    width: 150px;
+    display:block;
+    margin:0 auto;
+}
